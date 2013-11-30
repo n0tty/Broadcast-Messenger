@@ -1,6 +1,6 @@
 import socket
 from Tkinter import *
-/*
+'''
 
   Broadcast Messenger by n0tty\n
   legendtanoybose@gmail.com
@@ -13,7 +13,7 @@ __________
  |______  /\\____/____  >\\___  >
         \\/           \\/     \\/ 
         
-*/
+'''
 
 class Application(Frame):
     def __init__(self, master):
