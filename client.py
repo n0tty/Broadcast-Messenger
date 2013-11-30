@@ -1,6 +1,6 @@
 import socket
 from Tkinter import *
-/*
+'''
 
   Broadcast Messenger by n0tty\n
   legendtanoybose@gmail.com
@@ -13,7 +13,7 @@ __________
  |______  /\\____/____  >\\___  >
         \\/           \\/     \\/ 
         
-*/
+'''
 
 UDP_IP = "192.168.0.1" #Change to server IP
 UDP_PORT = 5005        #Change to server port
